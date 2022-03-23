@@ -1,0 +1,4 @@
+STATUS_ORDERED = "Ordered"
+STATUS_CREATED = "Created"
+STATUS_CANCELED = "Canceled"
+STATUS_ORDERING = "Ordering"
